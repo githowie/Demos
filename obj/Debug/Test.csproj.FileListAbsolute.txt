@@ -1,0 +1,8 @@
+C:\Programming\Microsoft\Test\bin\Test.dll
+C:\Programming\Microsoft\Test\bin\Test.pdb
+C:\Programming\Microsoft\Test\obj\Debug\Test.dll
+C:\Programming\Microsoft\Test\obj\Debug\Test.pdb
+C:\Programming\githowie\MSNET\test\bin\Test.dll
+C:\Programming\githowie\MSNET\test\bin\Test.pdb
+C:\Programming\githowie\MSNET\test\obj\Debug\Test.dll
+C:\Programming\githowie\MSNET\test\obj\Debug\Test.pdb
