@@ -38,7 +38,6 @@
         <label for="meter-data">Meter:</label>
         <meter id="meter-data" min="10" max="100" value="100" low="20" high="70" optimum="50"></meter><br />
         <input type="submit" value="Submit" /><br />
-
     </div>
     </form>
     <label for="outsideText-data">Other text:</label>
